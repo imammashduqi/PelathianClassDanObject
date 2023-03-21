@@ -1,0 +1,6 @@
+E:\22.11.4946\ClassTaxiDriver\ClassTaxiDriver\bin\Debug\ClassTaxiDriver.exe.config
+E:\22.11.4946\ClassTaxiDriver\ClassTaxiDriver\bin\Debug\ClassTaxiDriver.exe
+E:\22.11.4946\ClassTaxiDriver\ClassTaxiDriver\bin\Debug\ClassTaxiDriver.pdb
+E:\22.11.4946\ClassTaxiDriver\ClassTaxiDriver\obj\Debug\ClassTaxiDriver.csprojResolveAssemblyReference.cache
+E:\22.11.4946\ClassTaxiDriver\ClassTaxiDriver\obj\Debug\ClassTaxiDriver.exe
+E:\22.11.4946\ClassTaxiDriver\ClassTaxiDriver\obj\Debug\ClassTaxiDriver.pdb
